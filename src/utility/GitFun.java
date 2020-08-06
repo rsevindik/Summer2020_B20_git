@@ -8,5 +8,8 @@ public class GitFun {
 
 
         System.out.println("Ramazan");
+        System.out.println("Sevindik");
+       
+      
     }
 }
