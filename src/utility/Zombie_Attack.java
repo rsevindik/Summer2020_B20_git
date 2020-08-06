@@ -32,6 +32,9 @@ public class Zombie_Attack {
                 System.out.println("Day " + cnt + " " + Arrays.toString(inhabitants));
             } while (!Arrays.equals(inhabitants,num1));
             System.out.println("---- EXTINCT ----");
+
+
+            // zombies are in action.!
         }
     }
 
